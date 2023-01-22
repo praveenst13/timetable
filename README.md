@@ -95,3 +95,5 @@ Execute the program
 
 # OUPUT
 ![eig](ss.png)
+# RESULT
+Thus the program is executed for displaying the timetable
